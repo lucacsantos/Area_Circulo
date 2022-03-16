@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.genruntimeconfig.cache
